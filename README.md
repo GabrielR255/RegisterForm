@@ -1,14 +1,1 @@
-Formulário com Next JS
-
-Front End
-
--NEXTJS -TYPESCRIPT -TAILWINDCSS
-
-Back End
-
--NODEJS -EXPRESSJS -PRISMA -MONGODB
-
-
-
-
 
